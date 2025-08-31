@@ -1,6 +1,6 @@
 # Python Playground 🐍
 
-Python Playground is/will be a collection of 12 mini projects to practice Python fundamentals and learn the basics, all of these mini-projects are used solely within the terminal
+Python Playground is/will be a collection of 11 mini projects to practice Python fundamentals and learn the basics, all of these mini-projects are used solely within the terminal
 Inspired by Bro Code's full Python course: (https://www.youtube.com/watch?v=ix9cRaBkVe0)
 
 # Status: Unfinished 🚧
