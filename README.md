@@ -13,9 +13,9 @@ Inspired by Bro Code's full Python course: (https://www.youtube.com/watch?v=ix9c
 4. **Blackjack** - A blackjack game featuring standard casino rules, ace handling, betting system and dealer AI that follows house rules.
 5. **Guess the Number** - Guess the number game where you set your own range and try to guess the random generated number
 6. **Rock Paper Scissors** - Rock paper scissors against a computer
-8. **Banking Program** - [In progress]
-9. **Slot Machine** - [In progress]
-10. **Encryption Program** - [In progress]
+8. **Banking Program** - A simple command-line banking program that lets you deposit, withdraw, and check your balance.
+9. **Slot Machine** - A simple text-based slot machine game with betting and payouts.
+10. **Encryption Program** - encryption of plain text by using a copy (key) of all the characters and then shuffling it
 11. **Hangman Game** - [In progress]
 12. **Alarm Clock** - [In progress]
 
