@@ -31,7 +31,7 @@ Each project is a standalone `.py` file. Simply run the project you want in the 
 
 Replace `filename.py` with the actual name of the Python file you want to execute.
 
-## What You'll Learn 📚
+## Key concepts covered 📚
 
 - Core Python syntax and data structures  
 - Handling user input and displaying output  
