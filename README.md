@@ -9,7 +9,7 @@ Inspired by Bro Code's full Python course: [YouTube Link](https://www.youtube.co
 ## Status: Finished ☑️
 All 11 projects have been implemented and tested in the terminal.
 
-## Projects 📁
+## Projects 
 
 1. **Quiz Game** - Interactive multiple-choice quiz with score tracking.
 2. **Timer Program** - Countdown timer with sound notification.
@@ -23,7 +23,7 @@ All 11 projects have been implemented and tested in the terminal.
 10. **Hangman Game** - Guess a hidden word with limited wrong attempts.
 11. **Alarm Clock** - Set a specific time (HH:MM:SS) for an alarm notification.
 
-## How to Run 🚀
+## How to Run 
 
 Each project is a standalone `.py` file. Simply run the project you want in the terminal using:
 
@@ -31,7 +31,7 @@ Each project is a standalone `.py` file. Simply run the project you want in the 
 
 Replace `filename.py` with the actual name of the Python file you want to execute.
 
-## Key concepts covered 📚
+## Key concepts covered 
 
 - Core Python syntax and data structures  
 - Handling user input and displaying output  
